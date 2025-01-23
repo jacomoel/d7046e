@@ -13,3 +13,7 @@ __pycache__/
 # Ignore system-specific files
 .DS_Store
 Thumbs.db
+
+
+# ignore e0 data
+exercises/MNIST/*
