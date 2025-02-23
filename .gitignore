@@ -17,3 +17,6 @@ Thumbs.db
 
 # ignore e0 data
 exercises/MNIST/*
+
+# ignore ANN2 best_model
+exercises/ANN/e2/best_model.pt
