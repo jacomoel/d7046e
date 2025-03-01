@@ -179,7 +179,7 @@ def set_up_sequences(file_name = 'input.txt'):
 
         sequences = split_to_chars(chunks)
         print('A single sample from the Shakespeare dataset:')
-        print(shakespeare_sequences[0])
+        #print(shakespeare_sequences[0])
 
         # Whole dataset is too big to effectively train on, so let's start by grabbing the first 100 sequences
         #sequences = sequences[0:100]
