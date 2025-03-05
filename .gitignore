@@ -20,3 +20,6 @@ exercises/MNIST/*
 
 # ignore ANN2 best_model
 exercises/ANN/e2/best_model.pt
+
+# ignore ANN3 101_objects
+exercises/ANN/e3/101_ObjectCategories_2classes/*
