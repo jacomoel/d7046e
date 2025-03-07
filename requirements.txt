@@ -8,3 +8,4 @@ pandas
 gensim
 ipywidgets
 opencv-python
+seaborn
