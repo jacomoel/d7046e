@@ -14,6 +14,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Ignore ann3 dataset
+exercises/ANN/e3/101_ObjectCategories_2classes
 
 # ignore e0 data
 exercises/MNIST/*
